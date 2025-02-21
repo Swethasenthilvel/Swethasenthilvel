@@ -1,7 +1,13 @@
-## Hi there 👋 It's me Swetha
+<h1 align="center">Hi 👋, I'm Swetha S</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
 - 🔭 Here's my [portfolio](https://swethasenthilvel.github.io/Swetha-Portfolio/)                                                 
 - 🌱 I’m currently learning React js and SQL to my workflow
+- 📝 I regularly write articles on [https://swethas.hashnode.dev/](https://swethas.hashnode.dev/)
+- 💬 Ask me about **HTML, CSS, JavaScript, React.**
+- 📫 How to reach me **swethasksn@gmail.com**
+- 📄 Know about my experiences [https://drive.google.com/file/d/1YHCMwIPRBpPSL90GTjuDjHClw-MRS_wf/view?usp=sharing](https://drive.google.com/file/d/1YHCMwIPRBpPSL90GTjuDjHClw-MRS_wf/view?usp=sharing)
+- 👨‍💻 All of my projects are available at [https://github.com/Swethasenthilvel](https://github.com/Swethasenthilvel)
 - Social Presence
 <br />[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/swetha-s-9995961b0/) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/swe_angelic_princess/)
 
